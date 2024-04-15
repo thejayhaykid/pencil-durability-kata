@@ -1,7 +1,5 @@
 # Pencil Durability Kata
 
-If you don't have visual studio set up, you can click the green `Code` button, switch to the `Codespaces` tab, and create a new codespace off of master. This should open a VS Code tab in your browser and set up the environment. You can run tests by using `dotnet test` in the terminal.
-
 ## Instructions
 The purpose of the Pencil Durability Kata is to write code to simulate, first coarsely and then more faithfully, an ordinary graphite pencil. It includes writing and editing text, point degradation, using the eraser, and sharpening the pencil. The point of this kata is to provide a larger-than-trivial exercise that can be used to practice TDD. A significant portion of the effort will be in determining which tests should be written and, more importantly, written next.
 
